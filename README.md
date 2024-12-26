@@ -1,11 +1,11 @@
-# To activate this environment, use
-#     $ conda activate C:\Projects\Notebooks\SparkBulkDataLoadApp\condaEnv
-# To deactivate an active environment, use
-#     $ conda deactivate
+# To activate this environment, use:
+$ conda activate C:\Projects\Notebooks\SparkBulkDataLoadApp\condaEnv
+# To deactivate an active environment, use:
+$ conda deactivate
 
 
 
-# Run as:
-# python sbdl_main.py local 2022-08-02
+# Run with:
+python sbdl_main.py local 2022-08-02
 # Test with:
-# pytest test_pytest_sbdl.py
+pytest test_pytest_sbdl.py
