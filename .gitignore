@@ -1,0 +1,8 @@
+# Default ignored files
+/workspace.xml
+.idea/*
+lib/__pycache__/*
+condaEnv/*
+__pycache__/*
+/pytest_cache/*
+etc/*
